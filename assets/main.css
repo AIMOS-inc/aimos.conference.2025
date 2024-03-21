@@ -41,7 +41,7 @@ body{
     width: 1000px;
 }
 
-a{color: #8fbc8f; text-decoration:none;}
+a{color: #BAFF39; text-decoration:none;}
 a.current{color: #BAFF39; font-family:'Anybody',serif;}
 a.current:hover{color: #9FC5E8;} /* need to change this and above */
 a:hover{color: #9FC5E8;}
@@ -84,7 +84,7 @@ th,td{
 /* Website Banner */
 .banner {position: relative; font-family:'Anybody',serif;}
 .top-left {font-size:5.33em; color: #FFFFFF; background: #6E6E6E; text-align: center; width: 1000px; height: 67px; position: absolute; padding: 32px 0 0 0; top: 0px;}
-.bottom-right {font-size:2.33em; color: #6E6E6E; line-height: 1.5em; width: auto; height: 100px; padding: 0px 22px 22px 0px; text-align: right; position: absolute; bottom: 0px; right: 0px; text-shadow: 0px 0px 6px #000000;}
+.bottom-right {font-size:2.33em; color: #BAFF39; line-height: 1.5em; width: auto; height: 100px; padding: 0px 22px 22px 0px; text-align: right; position: absolute; bottom: 0px; right: 0px; text-shadow: 0px 0px 6px #000000;}
 
 /* Conference Title Logo */
 .title1{color: #132db2; text-shadow: 1px 1px 3px #c0c0c0;} 
