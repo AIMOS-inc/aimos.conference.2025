@@ -11,6 +11,7 @@
  *   #729672; AIMOS Blue
  *   #729672; Heading color, titles in the Program (dark green)
  *   #8fbc8f; Dark sea green, color for links, changed to AIMOS yellow, but darkened slightly
+ *   #9FC5E8; (sky blue)
  * for fonts see here: https://github.com/Etcetera-Type-Co
  * colour schemes https://www.hostinger.com/tutorials/website-color-schemes#Top_30_Website_Color_Schemes
  */
@@ -42,9 +43,9 @@ body{
 
 a{color: #8fbc8f; text-decoration:none;}
 a.current{color: #BAFF39; font-family:'Anybody',serif;}
-a.current:hover{color: #e82945;}
-a:hover{color: #132db2;}
-a:active{color: #e82945;}
+a.current:hover{color: #9FC5E8;} /* need to change this and above */
+a:hover{color: #9FC5E8;}
+a:active{color: #BAFF39;}
 h1,h2,h3,h4{clear:left; color: #729672; margin:1.5em 0em 1em 0em; font-family:'Anybody',serif; text-shadow: 1px 1px 2px #d0d0d0;}
 h1{font-size:2.67em;}
 h2{font-size:2.00em;}
