@@ -8,8 +8,8 @@
  *   #6E6E6E; Background color of the site (dim grey)
  *   #FFFFFF; Foreground (text) color of the site (white)
  *   #BAFF39; "Template" in the logo, current page in navigation, special titles in the Program (yellow-green)
- *   #729672; AIMOS Blue
- *   #729672; Heading color, titles in the Program (dark green)
+ *   #bfb55a; AIMOS Blue
+ *   #bfb55a; Heading color, titles in the Program (dark green)
  *   #8fbc8f; Dark sea green, color for links, changed to AIMOS yellow, but darkened slightly
  *   #9FC5E8; (sky blue)
  * for fonts see here: https://github.com/Etcetera-Type-Co
@@ -46,7 +46,7 @@ a.current{color: #BAFF39; font-family:'Anybody',serif;}
 a.current:hover{color: #9FC5E8;} /* need to change this and above */
 a:hover{color: #9FC5E8;}
 a:active{color: #BAFF39;}
-h1,h2,h3,h4{clear:left; color: #729672; margin:1.5em 0em 1em 0em; font-family:'Anybody',serif; text-shadow: 1px 1px 2px #d0d0d0;}
+h1,h2,h3,h4{clear:left; color: #bfb55a; margin:1.5em 0em 1em 0em; font-family:'Anybody',serif; text-shadow: 1px 1px 2px #d0d0d0;}
 h1{font-size:2.67em;}
 h2{font-size:2.00em;}
 h3{font-size:1.67em;}
@@ -107,7 +107,7 @@ td.sponsor img{width: 100%}
 /* The Table on the Program Page */
 td.room{padding: 3px 12px 3px 3px; width: 90%; vertical-align:bottom; font-size:1.67em; color: #BAFF39; height:32px;}
 td.date{white-space:nowrap; width:240px; text-align:right; vertical-align:top; padding:3px 16px 0px 0px;}
-td.title{padding: 3px 12px 3px 3px; width: 90%; text-align:left; vertical-align:top; font-size:1.5em; color: #729672; height:32px; font-family:'Anybody',serif; text-shadow: 1px 1px 2px #d0d0d0; }
+td.title{padding: 3px 12px 3px 3px; width: 90%; text-align:left; vertical-align:top; font-size:1.5em; color: #bfb55a; height:32px; font-family:'Anybody',serif; text-shadow: 1px 1px 2px #d0d0d0; }
 td.title-special{padding: 3px 9px 3px 3px; width: 90%; vertical-align:top; font-size:1.67em; color: #BAFF39; height:32px; font-family:'Anybody',serif; text-shadow: 1px 1px 2px #d0d0d0;}
 td.speaker{padding: 3px 9px 3px 3px; font-style: italic; font-size:1em; max-height:999999px}
 td.abstract{padding: 3px 9px 12px 3px; font-size:1em; max-height:999999px}
