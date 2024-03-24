@@ -3,21 +3,21 @@
 /* These are the colors and fonts used throughout the webpage.
  * I've listed them here so that a user may easily
  * do a search-and-replace for these to change the site theme.
- *   'Gluten', Font for the body text 
+ *   'Trispace', Font for the body text 
  *   'Anybody', Font for the title text
  *   #6E6E6E; Background color of the site (dim grey)
  *   #FFFFFF; Foreground (text) color of the site (white)
  *   #BAFF39; "Template" in the logo, current page in navigation, special titles in the Program (yellow-green)
- *   #bfb55a; AIMOS Blue
- *   #bfb55a; Heading color, titles in the Program (dark green)
- *   #8fbc8f; Dark sea green, color for links, changed to AIMOS yellow, but darkened slightly
+ *   #bfb55a; # gold
+ *   #bfb55a; Heading color, titles in the Program (gold)
+ *   #bfb55a; color for links? (gold)
  *   #9FC5E8; (sky blue)
  * for fonts see here: https://github.com/Etcetera-Type-Co
  * colour schemes https://www.hostinger.com/tutorials/website-color-schemes#Top_30_Website_Color_Schemes
  */
 
 @import url('https://fonts.googleapis.com/css?family=Anybody');
-@import url('https://fonts.googleapis.com/css?family=Gluten');
+@import url('https://fonts.googleapis.com/css?family=Trispace');
 
 *{
     border:0;
@@ -34,7 +34,7 @@ body{
     background-attachment: fixed;
     color: #FFFFFF; 
     text-align: left;
-    font-family:'Gluten',sans-serif;
+    font-family:'Trispace',sans-serif;
     font-size: 1em;
     line-height: 1.5em;
     margin: 60px auto;
@@ -52,7 +52,7 @@ h2{font-size:2.00em;}
 h3{font-size:1.67em;}
 h4{font-size:1.33em;}
 p{list-style:none; margin:0px auto 12px auto; padding:0px; width:900px; text-align:left;}
-li a, p a {text-decoration:underline; text-decoration-color:#8fbc8f;}
+li a, p a {text-decoration:underline; text-decoration-color:#bfb55a;}
 ul{margin:24px auto 24px auto; padding:0px; width:800px; text-align:left;}
 ul li{margin:0px auto 0px auto; padding:0px; text-align:left;}
 i,em{font-style:italic;}
