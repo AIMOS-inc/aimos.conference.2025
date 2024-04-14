@@ -8,9 +8,9 @@
  *   #FDF8F0; Background color of the site (light beige)
  *   #000000; Foreground (text) color of the site (black)
  *   #192570; "Template" in the logo, current page in navigation, special titles in the Program (navy/purple)
- *   #5f22d9; Heading color, titles in the Program (purple)
+ *   #5f22d9; Heading color, titles in the Program (purple) 
  *   #FF595A; for links hovered over (coral)
- *   #D668E3; main title (medium purple)
+ *   #D668E3; main title (medium purple) and also text in photos (bottom-right)
  * for fonts see here: https://github.com/Etcetera-Type-Co
  * colour schemes https://www.hostinger.com/tutorials/website-color-schemes#Top_30_Website_Color_Schemes
  */
@@ -83,7 +83,7 @@ th,td{
 /* Website Banner */
 .banner {position: relative; font-family:'Anybody',serif;}
 .top-left {font-size:5.33em; color: #000000; background: #FDF8F0; text-align: center; width: 1000px; height: 67px; position: absolute; padding: 32px 0 0 0; top: 0px;}
-.bottom-right {font-size:2.33em; color: #192570; line-height: 1.5em; width: auto; height: 100px; padding: 0px 22px 22px 0px; text-align: right; position: absolute; bottom: 0px; right: 0px; text-shadow: 0px 0px 6px #000000;}
+.bottom-right {font-size:2.33em; color: #D668E3; line-height: 1.5em; width: auto; height: 100px; padding: 0px 22px 22px 0px; text-align: right; position: absolute; bottom: 0px; right: 0px; text-shadow: 0px 0px 6px #000000;}
 
 /* Conference Title Logo */
 .title1{color: #D668E3; text-shadow: 1px 1px 3px #c0c0c0;} 
