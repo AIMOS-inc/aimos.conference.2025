@@ -17,7 +17,7 @@
  *   2025:
  *   'Trispace', Font for the body text 
  *   'Anybody', Font for the title text
- *   #FDF8F0; Background color of the site (light beige)
+ *   #E1E7F0; Background color of the site (light blue-grey)
  *   #000000; Foreground (text) color of the site (black)
  *   #003060; "Template" in the logo, current page in navigation, special titles in the Program (navy blue)
  *   #055C9D; Heading color, titles in the Program (blue) 
@@ -39,7 +39,7 @@
 }
 
 body{
-    background-color: #FDF8F0;
+    background-color: #E1E7F0;
     background-size: cover;
     background-attachment: fixed;
     color: #000000; 
@@ -93,7 +93,7 @@ th,td{
 
 /* Website Banner */
 .banner {position: relative; font-family:'Anybody',serif;}
-.top-left {font-size:5.33em; color: #000000; background: #FDF8F0; text-align: center; width: 1000px; height: 67px; position: absolute; padding: 32px 0 0 0; top: 0px;}
+.top-left {font-size:5.33em; color: #000000; background: #E1E7F0; text-align: center; width: 1000px; height: 67px; position: absolute; padding: 32px 0 0 0; top: 0px;}
 .bottom-right {font-size:2.33em; color: #0E86D4; line-height: 1.5em; width: auto; height: 100px; padding: 0px 22px 22px 0px; text-align: right; position: absolute; bottom: 0px; right: 0px; text-shadow: 0px 0px 6px #000000;}
 
 /* Conference Title Logo */
